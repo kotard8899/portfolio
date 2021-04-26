@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/detail/-MHyOKbm7Ctg24fWerHb", {data:[{}],fetch:[],mutations:[]});

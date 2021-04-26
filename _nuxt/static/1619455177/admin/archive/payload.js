@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/archive", {data:[],fetch:[],mutations:void 0});
